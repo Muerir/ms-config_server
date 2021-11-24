@@ -16,3 +16,6 @@ eureka:
     register-with-eureka: true
     serviceUrl:
       defaultZone: ${EUREKA_URI:http://localhost:8763/eureka}
+
+arquitectura:
+  software: '{cypher}48474cb9470925785620249cd8ec8b382e4f902a6592fbcd6c5a49275419eb2c5aa7dd6cb7510427724a2f508521bbea'
